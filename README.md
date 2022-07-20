@@ -1,10 +1,15 @@
-### Olá eu sou Michael Batista 🧑 
-###### dev fullstack atualmente trabalho na <a href="https://www.fortics.com.br/">Fortics</a>
+### Olá eu sou Michael Batista 🧑
+
+<div style="position:relative;top:-1.5em;color:#6c6c6c;">
+    <h6>
+        dev fullstack atualmente trabalho na <a href="https://www.fortics.com.br/">Fortics</a>
+    </h6>
+</div>
+
 
 ![Michael GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelB16&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelB16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Tecnologias que utilizo
 
@@ -36,4 +41,9 @@
 
 ## Rede social
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]('https://www.linkedin.com/in/michael-batista-80575a121/')
+<div>
+    <a href="https://www.linkedin.com/in/michael-batista-80575a121/">
+        <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
+    </a>
+</div>
+
