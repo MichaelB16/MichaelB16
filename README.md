@@ -2,7 +2,7 @@
 
 <div style="position:relative;top:-1.5em;color:#6c6c6c;">
     <h6>
-        dev fullstack atualmente trabalho na <a href="https://www.fortics.com.br/">Fortics</a>
+        dev fullstack atualmente trabalho na <a href="https://www.farmarcas.com.br/">Farmarcas</a>
     </h6>
 </div>
 
