@@ -32,13 +32,6 @@
     <a><img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" alt="vuetify" /></a>
 </div>
 
-### Tecnologias em aprendizado
-
-<div>
- <a><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="php" /></a>
- <a><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="php" /></a>
-</div>
-
 ## Rede social
 
 <div>
