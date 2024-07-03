@@ -1,9 +1,9 @@
 <div>
     <b>Olá eu sou Michael Batista 🧑</b>
     <br />
-    <span style="color:#6c6c6c;"> 
+    <small style="color:#6c6c6c;"> 
     dev fullstack atualmente trabalho na <b><a href="https://www.farmarcas.com.br/">Farmarcas</a></b>
-    </span>
+    </small>
 </div> 
 <br />
 <div>
@@ -12,7 +12,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=MichaelB16&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
-  <img size-width="300" src="https://github-readme-stats.vercel.app/api?username=MichaelB16&show_icons=true&theme=tokyonight&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MichaelB16&show_icons=true&theme=tokyonight&layout=compact" />
 </picture>
 
 <picture>
@@ -20,7 +20,7 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelB16"
     media="(prefers-color-scheme: dark)"
   />
-  <img height="195" sizewidth="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelB16&layout=compact" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelB16&layout=compact" />
 </picture>
 </div>
 
@@ -64,4 +64,5 @@
         <img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />
     </a>
 </div>
+
 
