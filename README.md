@@ -1,5 +1,5 @@
 <div>
-    <b>Olá eu sou Michael Batista 🧑</b>
+    <b>Olá, eu sou Michael Batista 🧑</b>
     <br />
     <small style="color:#6c6c6c;"> 
     dev fullstack atualmente trabalho na <b><a href="https://www.farmarcas.com.br/">Farmarcas</a></b>
