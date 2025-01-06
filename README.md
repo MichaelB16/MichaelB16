@@ -35,6 +35,7 @@
             <a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" /></a>
             <a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /></a>
             <a><img src="https://img.shields.io/badge/nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs" /></a>
+            <a><img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /></a>
         </div>
     </ul>
     <h4>Frontend</h4>
