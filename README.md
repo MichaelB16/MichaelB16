@@ -1,34 +1,34 @@
 <div>
-    <b>Olá, eu sou Michael Batista 🧑</b>
+    <b>Hi, I'm Michael Batista 🧑</b>
     <br />
     <small style="color:#6c6c6c;"> 
-    dev fullstack atualmente trabalho na <b><a href="https://www.farmarcas.com.br/">Farmarcas</a></b>
+    fullstack dev currently  <b><a href="https://www.farmarcas.com.br/">Farmarcas</a></b>
     </small>
 </div> 
 <br />
 <div>
-    <picture>
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=MichaelB16&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelB16&show_icons=true&theme=tokyonight&layout=compact" />
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=MichaelB16&show_icons=true" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelB16"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelB16&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelB16&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelB16" />
 </picture>
 </div>
 
 
-### Tecnologias que utilizo
+### Technologies I use
 
 <div>
-    <h4>Linguagem</h4>
+    <h4>Language</h4>
     <div>
         <a><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" /></a>
         <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="js" /></a>
@@ -49,7 +49,8 @@
          <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" /></a>
          <a><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" /></a>
          <a><img src="https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white" alt="less" /></a>
-         <a><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue" /></a>
+          <a><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue" /></a>
+         <br />
          <a><img src="https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black" alt="quasar" /></a>
          <a><img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" alt="vuetify" /></a>
          <a><img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" alt="graphql" /></a>
@@ -62,7 +63,7 @@
     </div>  
 </div>
 
-## Rede social
+## Social network
 
 <div>
     <a href="https://www.linkedin.com/in/michael-batista-80575a121/">
