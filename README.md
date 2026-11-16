@@ -7,22 +7,22 @@
 </div> 
 <br />
 <div>
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=MichaelB16&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=MichaelB16&show_icons=true" />
-</picture>
+</picture> -->
 
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelB16&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelB16" />
 </picture>
-</div>
+</div> -->
 
 
 ### Technologies I use
